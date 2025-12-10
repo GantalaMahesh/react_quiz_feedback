@@ -1,0 +1,81 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Which React hook is used for managing state in a function component?",
+      "options": [
+        "useEffect",
+        "useState",
+        "useMemo",
+        "useRef"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "2",
+      "question": "Which hook would you use to perform side effects like data fetching?",
+      "options": [
+        "useState",
+        "useEffect",
+        "useMemo",
+        "useContext"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "3",
+      "question": "Which hook can be used to memoize expensive calculations?",
+      "options": [
+        "useState",
+        "useEffect",
+        "useMemo",
+        "useReducer"
+      ],
+      "correctIndex": 2
+    }
+  ],
+  "results": [
+    {
+      "id": "b2bd",
+      "name": "Srinu",
+      "score": 1,
+      "total": 3,
+      "percentage": 33,
+      "timestamp": "2025-12-10T07:46:41.453Z"
+    },
+    {
+      "id": "865f",
+      "name": "karthik",
+      "score": 3,
+      "total": 3,
+      "percentage": 100,
+      "timestamp": "2025-12-10T08:38:46.688Z"
+    },
+    {
+      "id": "5bb9",
+      "name": "mahesh",
+      "score": 0,
+      "total": 3,
+      "percentage": 0,
+      "timestamp": "2025-12-10T08:46:08.069Z"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "6af1",
+      "name": "Gantala Mahesh",
+      "email": "maheshchowhan28@gmail.com",
+      "rating": 3,
+      "comments": "nice goo",
+      "timestamp": "2025-12-10T08:40:14.023Z"
+    },
+    {
+      "id": "53fc",
+      "name": "karthik",
+      "email": "lovelymahesh2808@gmail.com",
+      "rating": 5,
+      "comments": "goood",
+      "timestamp": "2025-12-10T08:40:31.896Z"
+    }
+  ]
+}

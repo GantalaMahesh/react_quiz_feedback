@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which React hook is used for managing state in a function component?",
+      "options": ["useEffect", "useState", "useMemo", "useRef"],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Which hook would you use to perform side effects like data fetching?",
+      "options": ["useState", "useEffect", "useMemo", "useContext"],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Which hook can be used to memoize expensive calculations?",
+      "options": ["useState", "useEffect", "useMemo", "useReducer"],
+      "correctIndex": 2
+    }
+  ],
+  "results": [],
+  "feedback": []
+}
